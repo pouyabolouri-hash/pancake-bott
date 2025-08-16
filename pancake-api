@@ -1,0 +1,9 @@
+{
+  "name": "pancake-api",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "ethers": "^6.13.1",
+    "node-fetch": "^3.3.2"
+  }
+}
